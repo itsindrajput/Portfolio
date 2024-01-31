@@ -3,8 +3,10 @@
 👋 Welcome to my portfolio website! This is where I showcase my projects, technical skills, and professional journey. I'm an enthusiastic and ambitious fresher from I.E.T, Agra, specializing in computer science. My passion lies in Full Stack Development and Software Development, and I am dedicated to delivering innovative and efficient solutions that contribute to the growth of any organization. I'm excited to share my work with you and demonstrate my passion. 🚀
 
 Explore My Portfolio websites:
-- 🌐 https://itsindrajput.netlify.app/
+- 🌐 https://itsindrajput.netlify.app
 - 🌐 https://itsindrajput.github.io/Portfolio
+  
+![Welcome to My Portfolio Website](https://github.com/itsindrajput/Portfolio/assets/70815899/8ceb7f36-c0ed-4956-a003-93cf05c626db)
 
 ## Table Of Contents 📊
 
