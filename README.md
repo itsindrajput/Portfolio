@@ -47,7 +47,7 @@ Check out my blog posts covering various topics:
 
 ## Resume 📝
 
-- My resume provides comprehensive insight into my qualifications and achievements. Check it out here: [Rishabh_Singh_Resume.pdf](https://github.com/itsindrajput/Portfolio/files/12473520/Rishabh_Singh_Resume.pdf)
+- My resume provides comprehensive insight into my qualifications and achievements. Check it out here: [Rishabh_Singh_Resume.pdf](https://github.com/itsindrajput/Portfolio/files/14108581/Rishabh_Singh_Resume.pdf)
 - Additional Documents [Documents.pdf](https://github.com/itsindrajput/Profiles/files/12326736/Documents.pdf)
 
 ## My Digital Presence Across Multiple Platforms 🔗
