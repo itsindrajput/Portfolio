@@ -3,8 +3,11 @@
 👋 Welcome to my portfolio website! This is where I showcase my projects, technical skills, and professional journey. I'm an enthusiastic and ambitious fresher from I.E.T, Agra, specializing in computer science. My passion lies in Full Stack Development and Software Development, and I am dedicated to delivering innovative and efficient solutions that contribute to the growth of any organization. I'm excited to share my work with you and demonstrate my passion. 🚀
 
 Explore My Portfolio websites:
+
 - 🌐 https://itsindrajput.netlify.app/
 - 🌐 https://itsindrajput.github.io/Portfolio
+
+![Welcome to My Portfolio Website](https://github.com/itsindrajput/Portfolio/assets/70815899/dd3eef88-f782-49d1-8cde-573fe9a1f9cb)
 
 ## Table Of Contents 📊
 
@@ -18,27 +21,30 @@ Explore My Portfolio websites:
 
 ## About Me 👤
 
-💡 My name is Rishabh and I am an engineering graduate from Dr. Bhimrao Ambedkar University Agra. My cumulative cgpa Till 7th semester is 8.00. I reside at Kushinagar, Uttar Pradesh. I am Enthusiastic And  Determinant Men. I enjoy solving technical problem, researching and learning new technologies. I enjoy meeting people and working with them in a team environment.
+💡 My name is Rishabh and I am an engineering graduate from Dr. Bhimrao Ambedkar University Agra. My cumulative cgpa Till 7th semester is 8.00. I reside at Kushinagar, Uttar Pradesh. I am Enthusiastic And Determinant Men. I enjoy solving technical problem, researching and learning new technologies. I enjoy meeting people and working with them in a team environment.
 
 💡 My ultimate goal is to become a highly skilled in the field of Software Development, delivering innovative and efficient solutions that contribute to the overall prosperity of the company. 🎯
 
 ## Services ✅
 
 In the realm of computer science, I offer a range of services including but not limited to:
+
 - Full Stack Developer
 - Software Engineer
 
 ## Work ⏰
 
 You can find an array of my notable projects in this section. Each project is a testament to my skills and dedication to crafting high-quality solutions.
+
 - [TheKisanDwar](https://thekisandwar.netlify.app/)
 - [PoseEstimation](https://itsindrajput.github.io/PoseEstimation/)
 - [TheClothifyStore](https://itsindrajput.github.io/TheClothifyStore/)
 - [StudentDatabaseManagementSystem](https://github.com/itsindrajput/Student-Database-Management-System)
-  
+
 ## Blog 💛
 
 Check out my blog posts covering various topics:
+
 - [Pathway: To Become An Enthusiastic Developer](https://itsindrajput.github.io/Profiles/Blog-2.html)
 - [Roadmap To Coding World](https://itsindrajput.github.io/Profiles/Blog-3.html)
 - [Traveling Adventures](https://itsindrajput.github.io/Profiles/Blog-1.html)
@@ -51,6 +57,7 @@ Check out my blog posts covering various topics:
 ## My Digital Presence Across Multiple Platforms 🔗
 
 Connect with me or discover more about me and my work:
+
 - 🌐 [HackerRank](https://www.hackerrank.com/itsindrajput)
 - 💼 [Freelancer](https://www.freelancer.com/u/itsindrajput)
 - 💬 [LinkedIn](https://www.linkedin.com/in/itsindrajput/)
