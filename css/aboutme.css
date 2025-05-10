@@ -902,33 +902,50 @@ a:hover {
 .favor-list {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
-  align-content: center;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 0.5rem;
 }
+
 .favor-list > li {
   display: flex;
-  flex: 1 0 0;
-  align-items: center;
-  justify-content: baseline;
   flex-direction: column;
-  color: var(--profile-theme);
-  padding: 1rem 0;
-  transition: all 0.3s;
-}
-.favor-list > li > i {
-  display: inline-flex;
-  justify-content: center;
   align-items: center;
-  font-size: 40px;
-  width: 50px;
-  height: 50px;
+  color: var(--profile-theme);
+  padding: 0rem;
+  transition: transform 0.3s, color 0.3s;
+  flex: 0 1 calc(33.333% - 1rem); /* 3 per row with gap */
+  max-width: calc(33.333% - 1rem);
+  text-align: center;
+  box-sizing: border-box;
 }
+
+.favor-list > li > i {
+  font-size: 36px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.favor-list > li > span {
+  margin-top: 0.5rem;
+  letter-spacing: 0.5px;
+  font-size: 0.95rem;
+}
+
 .favor-list > li:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
   color: var(--color-tiffany);
 }
-.favor-list > li > span {
-  letter-spacing: 1px;
+
+/* Mobile: Stack items vertically */
+@media (min-width: 768px) and (max-width: 992px) {
+  .favor-list > li {
+    flex: 0 1 100%;
+    max-width: 100%;
+  }
 }
 
 @keyframes circle {
@@ -1077,6 +1094,16 @@ a:hover {
 .fa-hackerrank:hover {
   color: white;
   background-color: #589d76;
+}
+.fa-code {
+  background-color: #000000;
+  color: #e7a41e;
+  font-size: 30px;
+  padding-left: 16px;
+}
+.fa-code:hover {
+  color: #e69c07;
+  background-color: rgb(88, 87, 87);
 }
 
 /*--------------------------------------------------------------
