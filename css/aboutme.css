@@ -792,7 +792,7 @@ a:hover {
 }
 
 .detail:hover > .detail-section:not(:hover) {
-  opacity: 0.3;
+  opacity: 0.7;
 }
 .detail-section {
   transition: all 0.3s;
@@ -968,6 +968,11 @@ a:hover {
   }
   .favor-list > li {
     flex: 0 0 33.3333%;
+  }
+}
+@media (max-width: 383px) {
+  #show_hide {
+    display: none;
   }
 }
 /*------/ Sidebar /------*/
